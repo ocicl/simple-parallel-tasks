@@ -1,0 +1,10 @@
+* simple-parallel-tasks
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://codeberg.org/glv/simple-parallel-tasks.git   |
+| commit  |   |
+| systems | simple-parallel-tasks |
+|---------+-------------------------------------------|
+
