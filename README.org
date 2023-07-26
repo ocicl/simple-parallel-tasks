@@ -1,10 +1,9 @@
 * simple-parallel-tasks
 
+Common Lisp library to evaluate some forms in parallel.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://codeberg.org/glv/simple-parallel-tasks.git   |
-| commit  |   |
-| systems | simple-parallel-tasks |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------------------|
+| source  | git:https://codeberg.org/glv/simple-parallel-tasks.git |
+| commit  | ce7b60f788                                             |
+| systems | simple-parallel-tasks                                  |
+|---------+--------------------------------------------------------|
