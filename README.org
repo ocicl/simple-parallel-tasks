@@ -2,8 +2,9 @@
 
 Common Lisp library to evaluate some forms in parallel.
 
+
 |---------+--------------------------------------------------------|
 | source  | git:https://codeberg.org/glv/simple-parallel-tasks.git |
-| commit  | ce7b60f788                                             |
+| commit  | ce7b60f                                                |
 | systems | simple-parallel-tasks                                  |
 |---------+--------------------------------------------------------|
