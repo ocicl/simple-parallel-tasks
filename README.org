@@ -2,9 +2,10 @@
 
 Simple parallel task execution library
 
-|---------+----------------------------------------------------------------|
-| source  | git:https://codeberg.org/glv/simple-parallel-tasks.git        |
-| commit  | 5cf7428                                                        |
-| systems | simple-parallel-tasks                                          |
-|---------+----------------------------------------------------------------|
+|---------+--------------------------------------------------------|
+| source  | git:https://codeberg.org/glv/simple-parallel-tasks.git |
+| commit  | ce7b60f                                                |
+| systems | simple-parallel-tasks                                  |
+|---------+--------------------------------------------------------|
+-------------------------------------|
 
